@@ -1,5 +1,5 @@
 # A-Algorithm-visualisation
- Star algorihtm implemented
+ Star algorithm implemented
 
 To be used with the Window library: [https://github.com/NubSh0t/Python-projects/tree/main/Window]
 
